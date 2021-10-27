@@ -27,9 +27,9 @@
 ##
 <h3>Contact me!</h3>
 <div>
-<img height='180rem' src="https://github-readme-stats.vercel.app/api?username=catapultaazul&show_icons=true&theme=ocean_dark">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=catapultaazul&show_icons=true&theme=ocean_dark">
 
-<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catapultaazul&layout=compact&theme=ocean_dark"/>  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catapultaazul&layout=compact&theme=ocean_dark"/>  
 </div>
 <br>
 <div>  
