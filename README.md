@@ -6,7 +6,7 @@
 <img height="280" align="right" src="https://c.tenor.com/CaMG9zOhbwAAAAAi/steven-universe-peridot.gif">
 
 - 🔭 I’m a FrontEnd web developer Jr in progress .
-- 👓 I'm currently studying at Rocketseat.
+- 👓 I'm currently studying at Alura.
 - 🤔 I’m looking for work in FrontEnd projects.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm currently on carrer transitioning.
