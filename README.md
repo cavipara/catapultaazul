@@ -6,7 +6,8 @@
 <img height="280" align="right" src="https://c.tenor.com/CaMG9zOhbwAAAAAi/steven-universe-peridot.gif">
 
 - 🔭 I’m a FrontEnd web developer Jr in progress .
-- 👓 I'm currently studying at Alura.
+- 👓 I'm currently studying at Alura and Rocketseat.
+- 📚 I'm a attending college at UNINASSAU's "Análise e Desenvolvimento de Sistemas".
 - 🤔 I’m looking for work in FrontEnd projects.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm currently on carrer transitioning.
@@ -20,6 +21,10 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://chakra-ui.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="bootstrap" width="40" height="40"/> </a>
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
