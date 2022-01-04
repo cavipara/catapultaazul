@@ -7,7 +7,7 @@
 
 - 🔭 I’m a FrontEnd web developer Jr in progress .
 - 👓 I'm currently studying at Alura and Rocketseat.
-- 📚 I'm a attending college at UNINASSAU's "Análise e Desenvolvimento de Sistemas".
+- 📚 I'm attending college at UNINASSAU's "Análise e Desenvolvimento de Sistemas".
 - 🤔 I’m looking for work in FrontEnd projects.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm currently on carrer transitioning.
