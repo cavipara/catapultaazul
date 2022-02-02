@@ -10,7 +10,6 @@
 - 📚 I'm attending college at UNINASSAU's "Análise e Desenvolvimento de Sistemas".
 - 🤔 I’m looking for work in FrontEnd projects.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I'm currently on carrer transitioning.
 #
 
 
