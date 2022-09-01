@@ -5,7 +5,7 @@
 
 <img height="280" align="right" src="https://c.tenor.com/CaMG9zOhbwAAAAAi/steven-universe-peridot.gif">
 
-- 🔭 I’m a Jr FrontEnd web developer.
+- 🔭 I’m a FrontEnd web and mobile developer.
 - 👓 I'm currently studying at Alura and Rocketseat.
 - 📚 I'm attending college at UNINASSAU's "Análise e Desenvolvimento de Sistemas".
 - 🤔 I’m looking for work in FrontEnd projects.
